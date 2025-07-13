@@ -1,1 +1,1 @@
-{ "codes": ["RELEASE"] }
+{ "codes": { "RELEASE": 500 } }
