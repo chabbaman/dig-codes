@@ -1,1 +1,1 @@
-{ codes: ['RELEASE']: { cash: 100 } }
+{ "codes": ["RELEASE"] }
